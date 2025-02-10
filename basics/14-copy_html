@@ -1,2 +1,2 @@
 #!/bin/bash
-target_dir=$(dirname "$source_dir")
+mv [A-Z]* /tmp/u
