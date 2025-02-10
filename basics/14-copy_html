@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x copy_html.sh
+target_dir=$(dirname "$source_dir")
