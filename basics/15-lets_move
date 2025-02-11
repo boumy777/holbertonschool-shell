@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/sym/random_file /tmp/u
+mv "$file" /tmp/u/
