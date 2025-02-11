@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /tmp/u
+mv /tmp/sym/random_file /tmp/u
